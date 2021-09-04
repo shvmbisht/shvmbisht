@@ -1,4 +1,4 @@
-[![MasterHead](/images/Pink and Purple Professional LinkedIn Banner.png)]
+![MasterHead](</images/Pink and Purple Professional LinkedIn Banner.png>)
 
 <h1 align="center">Hi 👋, I'm Shivam Bisht aka monk</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
