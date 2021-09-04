@@ -1,7 +1,7 @@
 ![MasterHead](</images/Pink and Purple Professional LinkedIn Banner.png>)
 
 <h1 align="center">Hi 👋, I'm Shivam Bisht aka monk</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h4 align="left">A passionate full-stack developer from India, I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shvmbisht&label=Profile%20views&color=0e75b6&style=flat" alt="shvmbisht" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
