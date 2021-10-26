@@ -40,6 +40,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shvmbisht&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="shvmbisht" /></p>
+<p><img align="left" width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=shvmbisht&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="shvmbisht" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shvmbisht&show_icons=true&locale=en&theme=vue-dark" alt="shvmbisht" /></p>
+<p>&nbsp;<img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=shvmbisht&show_icons=true&locale=en&theme=vue-dark" alt="shvmbisht" /></p>
