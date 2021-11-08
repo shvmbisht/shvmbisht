@@ -6,11 +6,25 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Backstage**
+## 🔭 I’m currently working on 
+- **Backstage (developer portal)**
+- Building my portfolio using **three.js**
 
-- 💬 Ask me about **WEB 🕸**
+## 🌱 I’m currently learning
+### How to
+- Gather more meaningfully.
+- Level up in my Developer career.
+- Make my money work for me (investing 😍).
 
-- 📫 How to reach me **shvmbisht@gmail.com**
+## ✌🏼 I’m looking to collaborate on
+- Coding projects with a good cause.
+
+## 💬 Ask me about
+- **WEB 🕸**
+- Gaming
+
+## 📫 How to reach me 
+- **shvmbisht@gmail.com**
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
