@@ -1,7 +1,7 @@
 ![MasterHead](</images/Pink and Purple Professional LinkedIn Banner.png>)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Shivam Bisht </h1>
-<h4 align="left">A passionate Full-Stack Remote Developer from India, I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.</h4>
+<h4 align="left">A passionate and solution-driven full-stack developer from India. Experienced Full Stack Developer | Expertise in Node.js, React.js, and Microservices Architecture | Passionate about Crafting Quality Software Solutions. </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shvmbisht&label=Profile%20views&color=0e75b6&style=flat" alt="shvmbisht" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
