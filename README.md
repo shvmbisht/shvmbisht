@@ -17,6 +17,7 @@
 - Make my money work for me (investing 😍).
 
 ## ✌🏼 I’m looking to collaborate on
+- Open Source Projects.
 - Coding projects with a good cause.
 
 ## 💬 Ask me about
